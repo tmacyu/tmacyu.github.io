@@ -1,0 +1,13 @@
+future: true
+permalink: /:title/
+url: https://tmacyu.github.io
+name: tmacyu
+author: tmacyu
+qq: 564444101
+email: 564444101@qq.com
+duoshuo: 564444101
+beian: 
+github: tmacyu
+paginate: 20
+truncate: true
+about: ""
