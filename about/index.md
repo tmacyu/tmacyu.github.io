@@ -17,10 +17,12 @@ comments: no
 
 ### 联系方式：
 {% if site.qq %}
-ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }})
+ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }}) 
 {% endif %}
-邮箱：[{{ site.email }}](mailto:{{ site.email }}) <br>
-linkin : 陈禹 <br>
-脉脉 : 陈禹<br>
+邮箱：[{{ site.email }}](mailto:{{ site.email }}) 
+<br><br>
+linkin : 陈禹
+<br><br>
+脉脉 : 陈禹
 
 ----
