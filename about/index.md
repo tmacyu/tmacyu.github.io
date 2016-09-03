@@ -16,9 +16,9 @@ comments: no
 阿里巴巴 研发工程师 杭州 2015.8 - 至今 主要负责全球网站架构以及个性化推荐
 
 ### 联系方式：
-{% if site.qq %} ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }}) {% endif %}
-<br>邮箱：[{{ site.email }}](mailto:{{ site.email }}) 
-<br>linkin : 陈禹
-<br>脉脉 : 陈禹
+{% if site.qq %} ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }}) {% endif %} <br>
+邮箱：[{{ site.email }}](mailto:{{ site.email }}) <br>
+linkin : 陈禹 <br>
+脉脉 : 陈禹
 
 ----
